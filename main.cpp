@@ -16,7 +16,7 @@ string toLowercase(const string& str) {
 
 int main() {
     cout << "😃  Phonebook Search Program" << endl;
-    cout << "❓  This program can read names and phone numbers from a file, search for the data based on your full or partial search, and then display the results found." << endl;
+    cout << "❓  This program can read data from a file and display the results from the .txt file." << endl;
     ifstream phonebookFile("phonebook.txt");
     if (!phonebookFile) {
         cerr << "⚠️  Error: Could not open the phonebook file." << endl;
