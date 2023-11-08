@@ -1,6 +1,6 @@
 # PhoneBookBearch
 
-# This program can read names and phone numbers from a file, search for the data based on your full or partial search, and then display the results found.
+# This program can read data from a file and display the results from the .txt file.
   * Automatically converts search to lowercase and uppercase for best results.
   * Displays search results in a list.
   * Displays error message when no matching searches found.
