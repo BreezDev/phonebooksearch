@@ -5,4 +5,4 @@
   * Displays search results in a list.
   * Displays error message when no matching searches found.
   * Fake phone data for testing purposes.
-  * Made for private use, not intended for misuse.
+  * Made for private class use, not intended for misuse.
